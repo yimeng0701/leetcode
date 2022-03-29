@@ -47,7 +47,7 @@ Complete solutions to [LeetCode](https://leetcode.com/problemset/all/), [LCOF](h
 
 ## Need Practice
 ### Simulation
-- [54 Spiral Matrix] 
+- [ ] 54 Spiral Matrix
 
 ## High Frequency Interview Questions
 
