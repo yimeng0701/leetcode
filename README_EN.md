@@ -45,6 +45,10 @@ Complete solutions to [LeetCode](https://leetcode.com/problemset/all/), [LCOF](h
 
 -   [Binary Search(Algorithm Template)](/basic/searching/BinarySearch/README_EN.md)
 
+## Need Practice
+### Simulation
+- [54 Spiral Matrix] 
+
 ## High Frequency Interview Questions
 
 ### Arrays
